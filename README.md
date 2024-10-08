@@ -4,7 +4,7 @@
 </div>
 
 ## Project Overview
-This project, conducted on Google Colab, analyzes a dataset focusing on Airbnb listings. Key steps include data cleaning, visualization, hypothesis testing, and K-Means clustering of GPS locations.
+This project analyzes a dataset focusing on Airbnb listings. Key steps include data cleaning, visualization, hypothesis testing, and K-Means clustering of GPS locations.
 
 ### Dataset Details:
 
